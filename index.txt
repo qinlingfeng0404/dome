@@ -6,4 +6,6 @@
 6.git diff 查看不同的具体位置;
 7.git log 查看提交记录;
 8.git reset --hard  'commit id'(你提交时生成的版本号)  回到过去;
-9.git reflog  重返未来
+9.git reflog  重返未来;
+10.git remote add origin 'url地址';  本地仓库  连接远程仓库;
+11.git push -u origin master  提交到远程仓库;
