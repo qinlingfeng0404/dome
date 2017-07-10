@@ -2,3 +2,8 @@
 2.git init 命令创建仓库;
 3.git add filename(文件名) git add *(上传所有) 把文件添加到仓库中;
 4.git commit -m '注释内容'   把文件提交到仓库;
+5.git status 查看仓库状态;
+6.git diff 查看不同的具体位置;
+7.git log 查看提交记录;
+8.git reset --hard  'commit id'(你提交时生成的版本号)  回到过去;
+9.git reflog  重返未来
