@@ -1,0 +1,4 @@
+1.git本地创建仓库;
+2.git init 命令创建仓库;
+3.git add filename(文件名) git add *(上传所有) 把文件添加到仓库中;
+4.git commit -m '注释内容'   把文件提交到仓库;
